@@ -1,0 +1,14 @@
+# Entornos virtuales (es la carpeta donde se instalan las librerías)
+venv/
+env/
+.env/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos del sistema
+.DS_Store
+.idea/
+.vscode/
